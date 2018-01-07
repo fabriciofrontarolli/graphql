@@ -1,0 +1,24 @@
+{
+    "customers": [
+        {
+            "id": 1,
+            "name": "Fabricio C. Frontarolli",
+            "email": "fabricio.frontarolli@email.com"
+        },
+        {
+            "id": 2,
+            "name": "John Doe",
+            "email": "john.doe@gmail.com"
+        },
+        {
+            "id": 3,
+            "name": "Bill Gates",
+            "email": "bill.gates@gmail.com"
+        },
+        {
+            "id": 4,
+            "name": "Dan Abramov",
+            "email": "dan.abramov@gmail.com"
+        }
+    ]
+}
